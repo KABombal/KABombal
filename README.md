@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KABombal
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning c++
+-  I’m interested in Game Development & Software Engineering
+-  I have a degree in software engineering with a focus in game development
 
 <!---
 KABombal/KABombal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
